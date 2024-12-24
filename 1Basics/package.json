@@ -1,0 +1,12 @@
+{
+  "name": "1basics",
+  "version": "1.0.0",
+  "main": "1hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node 1hello.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
